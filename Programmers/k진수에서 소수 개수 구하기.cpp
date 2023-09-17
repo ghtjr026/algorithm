@@ -1,5 +1,5 @@
 /**************************
-문제의 핵심
+문제의 핵심 ( kakao blind recuruitment )
 1. 소수로 변환 시 int 범위를 넘어선 값이 있을 수 있음
 -> 따라서, stoi 가 아닌 stoull ( unsigned long long ) 으로 변환할 것
 
