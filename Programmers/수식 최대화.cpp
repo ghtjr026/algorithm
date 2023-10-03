@@ -1,5 +1,5 @@
 /**************************
-문제의 핵심 ( 2020 kakao intership )
+문제의 핵심 ( 2020 kakao internship )
 1. stack을 활용할 것을 인지할 것
 
 2. num과 operator stack을 사용할 것
