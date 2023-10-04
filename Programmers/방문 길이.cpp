@@ -1,5 +1,5 @@
 /**************************
-문제의 핵심 ( 2020 kakao blind recruitment )
+문제의 핵심 ( Summer/Winter Coding(~2018) )
 1. map[start, destination] / map[destination, start]로 저장하기 때문에 총 변의 수는 나누기2를 해야함
 **************************/
 #include <iostream>
